@@ -1,4 +1,4 @@
-**Subject**: Day 4: Time to Modify the App 🧠
+**Subject**: Day 4: Dive Deeper Into Streamlit—And Start Building for Real 🔍
 
 You’ve already set up your environment, run the demo app, and made your first code edit. Today, we take the next big step: modifying the app to make it your own.
 
