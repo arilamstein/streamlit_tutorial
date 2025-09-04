@@ -79,7 +79,7 @@ You're now ready to start coding! Let's start with the basics.
     1. The app should now have
    a button in the upper right that says "Rerun". Click it. The app should update with the new text.
    
-### Modify the App 
+### Dive Deeper into Streamlit 
 
 The best way to learn Streamlit is to solve small, real-world problems on an existing app. Open the file
 [exercises.md](exercises.md) and try to complete the tasks listed there. They ask you to modify the demo app by:
