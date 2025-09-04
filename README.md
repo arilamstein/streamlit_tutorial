@@ -1,5 +1,10 @@
 # streamlit_tutorial
 
+> 📨 **New! Prefer guided support?**  
+> 👉 Sign up for the [free email course](https://arilamstein.com/blog/2025/09/02/free-course-learn-to-build-data-apps-with-streamlit/) to learn Streamlit step-by-step—with help when you need it.
+
+----
+
 This repository walks you through creating and deploying a data app in Python using
 [Streamlit](https://streamlit.io/). It contains:
   * A motivating example. What problem does Streamlit solve?
@@ -10,18 +15,17 @@ This repository walks you through creating and deploying a data app in Python us
 
 You can view the final app you will build [here](https://arilamstein-tutorial.streamlit.app/).
 
-### Workshop Length
-
-In a recent workshop an experienced developer finished the workshop in about 90 minutes
-with minimal help from me. The less-experienced developers tended to get "stuck" at certain points and needed help to
-overcome the issues they encountered. 
-
-If you are going through this tutorial on your own and get stuck, my advice is to first see if google or an LLM can help
-you. If that doesn't work, see if a more experienced developer can answer your question.  
-
 ### Prerequisites
 
-This tutorial assumes that you have basic proficiency with the command line, git, and Python. 
+This tutorial assumes that you have prior experience with git, the command line, and Python. 
+
+### How to Take This Course
+
+If you've taught yourself new Python packages before, you might be able to complete this tutorial by yourself in an afternoon.
+
+After teaching this material at a local meetup, I noticed many participants benefited from checking in with me after each section. To support learners at scale, I created a free email version of the course. Over 7 days, you’ll receive one email per day with focused instructions—and if you get stuck, just hit “reply” and I’ll help you troubleshoot.
+
+To sign up, visit: [Free Course: Learn to Build Data Apps with Streamlit!](https://arilamstein.com/blog/2025/09/02/free-course-learn-to-build-data-apps-with-streamlit/)
 
 ### Motivating Example
 
