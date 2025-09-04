@@ -21,9 +21,9 @@ This tutorial assumes that you have prior experience with git, the command line,
 
 ### How to Take This Course
 
-If you've taught yourself new Python packages before, you might be able to complete this tutorial by yourself in an afternoon.
+If you've taught yourself new Python packages before, you might be able to complete this tutorial in an afternoon—just by following the steps listed in this README and running the code as you go. Learning a new Python package is the core skill here, and if that’s familiar territory, feel free to dive in solo.
 
-After teaching this material at a local meetup, I noticed many participants benefited from checking in with me after each section. To support learners at scale, I created a free email version of the course. Over 7 days, you’ll receive one email per day with focused instructions—and if you get stuck, just hit “reply” and I’ll help you troubleshoot.
+After teaching this material at a local meetup, however, I noticed many participants benefited from checking in with me after each section. To support learners at scale, I created a free email version of the course. Over 7 days, you’ll receive one email per day with focused instructions—and if you get stuck, just hit “reply” and I’ll help you troubleshoot.
 
 To sign up, visit: [Free Course: Learn to Build Data Apps with Streamlit!](https://arilamstein.com/blog/2025/09/02/free-course-learn-to-build-data-apps-with-streamlit/)
 
